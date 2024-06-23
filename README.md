@@ -1,14 +1,14 @@
 # Welcome to AI-Story-And-Image-Generator-Tool! 🚀
 **Created mainly for the GEMINI API DEVELOPER COMPETITION**
 
-Hey there! 👋 I'm Manu Bharadwaj, a passionate Software Engineer. Welcome to my AI-Story-And-Image-Generator-Tool, designed to showcase the power of HTML, CSS, and JavaScript.
+Hey there! 👋 I'm Manu Bharadwaj, a passionate Software Engineer. Welcome to my AI-Story-And-Image-Generator-Tool, designed to showcase the power of HTML, CSS, JavaScript & GEMINI API.
 
 ## About Me
 I'm Manu Bharadwaj, always exploring new technologies and creating innovative solutions.
 
 ## Features
 Experience the following features in this project:
-- 📦 HTML, CSS & JAVASCRIPT: Utilize these technologies to create a powerful and interactive story and image generator.
+- 📦 HTML, CSS, JAVASCRIPT & GEMINI API: Utilize these technologies to create a powerful and interactive story and image generator.
 
 ## Getting Started
 To get started with this tool, follow these simple steps:
