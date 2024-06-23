@@ -1,4 +1,4 @@
-# Welcome to AI-Story-And-Image-Generator-Tool !
+# Welcome to AI-Story-And-Image-Generator-Tool ! ( Created mainly for GEMINI API DEVELOPER COMPETITION )
 
 Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
 
